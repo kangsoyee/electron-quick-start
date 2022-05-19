@@ -1,8 +1,8 @@
 version: 1.0.4
 files:
   - url: HelloElectron-Setup-1.0.4.exe
-    sha512: 9quOnlHKdsPqnbzSe0stJC68ieIJrAj6zh68y38y89eRpkug6cdGT1EJMP/oBzM93crSbQ/ASO/zpF3TaexQVA==
-    size: 100822142
+    sha512: zLsx2DP/jqH1psqtVo8YEdUM8gz/abqOvv/Bi7LQM6++ounmUUYEzv5tbOjY4cqHso/RMes/tmKrg1o7Excm3g==
+    size: 100822109
 path: HelloElectron-Setup-1.0.4.exe
-sha512: 9quOnlHKdsPqnbzSe0stJC68ieIJrAj6zh68y38y89eRpkug6cdGT1EJMP/oBzM93crSbQ/ASO/zpF3TaexQVA==
-releaseDate: '2022-05-19T12:58:51.915Z'
+sha512: zLsx2DP/jqH1psqtVo8YEdUM8gz/abqOvv/Bi7LQM6++ounmUUYEzv5tbOjY4cqHso/RMes/tmKrg1o7Excm3g==
+releaseDate: '2022-05-19T13:09:58.948Z'
