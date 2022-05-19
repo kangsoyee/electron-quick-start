@@ -3,7 +3,7 @@ const { app, BrowserWindow } = require('electron');
 const { autoUpdater } = require("electron-updater");
 const log = require('electron-log');
 const path = require('path');
-
+autoUpdater.setFeedURL('https://github.com/kangsoyee/electron-quick-start.git');
 function createWindow () {
   // Create the browser window.
   const mainWindow = new BrowserWindow({
