@@ -1,6 +1,6 @@
 {
   "name": "electron-quick-start",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "**Clone and run for a quick way to see Electron in action.**",
   "main": "main.js",
   "dependencies": {
