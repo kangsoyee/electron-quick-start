@@ -4,7 +4,7 @@
   "description": "**Clone and run for a quick way to see Electron in action.**",
   "main": "main.js",
   "dependencies": {
-    "7zip-bin": "^5.1.1",
+    "7zip-bin": "^5.2.0",
     "agent-base": "^6.0.2",
     "ajv": "^6.12.6",
     "ajv-keywords": "^3.5.2",
