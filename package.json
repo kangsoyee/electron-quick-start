@@ -39,7 +39,7 @@
     "chalk": "^4.1.2",
     "chromium-pickle-js": "^0.2.0",
     "ci-info": "^3.3.1",
-    "cli-boxes": "^2.2.1",
+    "cli-boxes": "^3.0.0",
     "cliui": "^7.0.4",
     "clone-response": "^1.0.2",
     "color-convert": "^2.0.1",
