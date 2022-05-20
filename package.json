@@ -102,7 +102,7 @@
     "graceful-fs": "^4.2.10",
     "graceful-readlink": "^1.0.1",
     "has": "^1.0.3",
-    "has-flag": "^4.0.0",
+    "has-flag": "^5.0.1",
     "has-property-descriptors": "^1.0.0",
     "has-symbols": "^1.0.3",
     "has-yarn": "^2.1.0",
