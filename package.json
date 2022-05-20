@@ -44,7 +44,7 @@
     "clone-response": "^1.0.2",
     "color-convert": "^2.0.1",
     "color-name": "^1.1.4",
-    "colors": "^1.0.3",
+    "colors": "^1.4.0",
     "combined-stream": "^1.0.8",
     "commander": "^5.1.0",
     "compare-version": "^0.1.2",
