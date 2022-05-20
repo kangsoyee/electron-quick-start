@@ -111,7 +111,7 @@
     "http-proxy-agent": "^5.0.0",
     "https-proxy-agent": "^5.0.1",
     "iconv-lite": "^0.6.3",
-    "import-lazy": "^2.1.0",
+    "import-lazy": "^4.0.0",
     "imurmurhash": "^0.1.4",
     "inflight": "^1.0.6",
     "inherits": "^2.0.4",
