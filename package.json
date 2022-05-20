@@ -92,7 +92,7 @@
     "function-bind": "^1.1.1",
     "get-caller-file": "^2.0.5",
     "get-intrinsic": "^1.1.1",
-    "get-stream": "^4.1.0",
+    "get-stream": "^6.0.1",
     "glob": "^7.2.3",
     "global-agent": "^3.0.0",
     "global-dirs": "^3.0.0",
