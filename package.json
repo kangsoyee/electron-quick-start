@@ -129,7 +129,7 @@
     "isexe": "^2.0.0",
     "jake": "^10.8.5",
     "js-yaml": "^4.1.0",
-    "json-buffer": "^3.0.0",
+    "json-buffer": "^3.0.1",
     "json-schema-traverse": "^0.4.1",
     "json-stringify-safe": "^5.0.1",
     "json5": "^2.2.1",
