@@ -184,7 +184,7 @@
     "semver": "^6.3.0",
     "semver-compare": "^1.0.0",
     "semver-diff": "^3.1.1",
-    "serialize-error": "^7.0.1",
+    "serialize-error": "^11.0.0",
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
     "signal-exit": "^3.0.7",
