@@ -6,8 +6,8 @@
   "dependencies": {
     "7zip-bin": "^5.1.1",
     "agent-base": "^6.0.2",
-    "ajv": "^6.12.6",
-    "ajv-keywords": "^3.5.2",
+    "ajv": "^8.11.0",
+    "ajv-keywords": "^5.1.0",
     "ansi-align": "^3.0.1",
     "ansi-regex": "^5.0.1",
     "ansi-styles": "^4.3.0",
