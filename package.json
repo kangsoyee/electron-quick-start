@@ -124,7 +124,7 @@
     "is-path-inside": "^3.0.3",
     "is-typedarray": "^1.0.0",
     "is-yarn-global": "^0.3.0",
-    "isarray": "^1.0.0",
+    "isarray": "^2.0.5",
     "isbinaryfile": "^4.0.10",
     "isexe": "^2.0.0",
     "jake": "^10.8.5",
