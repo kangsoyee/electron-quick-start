@@ -51,7 +51,7 @@
     "concat-map": "^0.0.1",
     "concat-stream": "^1.6.2",
     "config-chain": "^1.1.13",
-    "configstore": "^5.0.1",
+    "configstore": "^6.0.0",
     "core-util-is": "^1.0.3",
     "cross-spawn": "^7.0.3",
     "crypto-random-string": "^2.0.0",
