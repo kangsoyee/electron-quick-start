@@ -188,7 +188,7 @@
     "shebang-command": "^2.0.0",
     "shebang-regex": "^3.0.0",
     "signal-exit": "^3.0.7",
-    "source-map": "^0.6.1",
+    "source-map": "^0.7.3",
     "source-map-support": "^0.5.21",
     "sprintf-js": "^1.1.2",
     "stat-mode": "^1.0.0",
