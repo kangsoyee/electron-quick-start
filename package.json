@@ -172,7 +172,7 @@
     "read-config-file": "^6.2.0",
     "readable-stream": "^2.3.7",
     "registry-auth-token": "^4.2.1",
-    "registry-url": "^5.1.0",
+    "registry-url": "^6.0.0",
     "require-directory": "^2.1.1",
     "responselike": "^1.0.2",
     "rimraf": "^3.0.2",
