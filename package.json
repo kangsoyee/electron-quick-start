@@ -161,7 +161,7 @@
     "pend": "^1.2.0",
     "pify": "^3.0.0",
     "plist": "^3.0.5",
-    "prepend-http": "^2.0.0",
+    "prepend-http": "^4.0.0",
     "process-nextick-args": "^2.0.1",
     "progress": "^2.0.3",
     "proto-list": "^1.2.4",
