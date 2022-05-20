@@ -215,7 +215,7 @@
     "utf8-byte-length": "^1.0.4",
     "util-deprecate": "^1.0.2",
     "which": "^2.0.2",
-    "widest-line": "^3.1.0",
+    "widest-line": "^4.0.1",
     "wrap-ansi": "^7.0.0",
     "wrappy": "^1.0.2",
     "write-file-atomic": "^3.0.3",
