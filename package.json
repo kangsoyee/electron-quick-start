@@ -49,7 +49,7 @@
     "commander": "^5.1.0",
     "compare-version": "^0.1.2",
     "concat-map": "^0.0.1",
-    "concat-stream": "^1.6.2",
+    "concat-stream": "^2.0.0",
     "config-chain": "^1.1.13",
     "configstore": "^5.0.1",
     "core-util-is": "^1.0.3",
