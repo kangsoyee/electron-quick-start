@@ -159,7 +159,7 @@
     "path-is-absolute": "^1.0.1",
     "path-key": "^3.1.1",
     "pend": "^1.2.0",
-    "pify": "^3.0.0",
+    "pify": "^6.0.0",
     "plist": "^3.0.5",
     "prepend-http": "^2.0.0",
     "process-nextick-args": "^2.0.1",
