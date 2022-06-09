@@ -91,7 +91,7 @@
     "fs.realpath": "^1.0.0",
     "function-bind": "^1.1.1",
     "get-caller-file": "^2.0.5",
-    "get-intrinsic": "^1.1.1",
+    "get-intrinsic": "^1.1.2",
     "get-stream": "^4.1.0",
     "glob": "^7.2.3",
     "global-agent": "^3.0.0",
