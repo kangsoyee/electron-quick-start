@@ -170,7 +170,7 @@
     "pupa": "^2.1.1",
     "rc": "^1.2.8",
     "read-config-file": "^6.2.0",
-    "readable-stream": "^2.3.7",
+    "readable-stream": "^4.1.0",
     "registry-auth-token": "^4.2.1",
     "registry-url": "^5.1.0",
     "require-directory": "^2.1.1",
