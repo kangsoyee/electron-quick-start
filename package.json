@@ -195,7 +195,7 @@
     "string-width": "^4.2.3",
     "string_decoder": "^1.1.1",
     "strip-ansi": "^6.0.1",
-    "strip-json-comments": "^2.0.1",
+    "strip-json-comments": "^5.0.0",
     "sumchecker": "^3.0.1",
     "supports-color": "^7.2.0",
     "temp-file": "^3.4.0",
