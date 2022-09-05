@@ -134,7 +134,7 @@
     "json-stringify-safe": "^5.0.1",
     "json5": "^2.2.1",
     "jsonfile": "^4.0.0",
-    "keyv": "^3.1.0",
+    "keyv": "^4.5.0",
     "latest-version": "^5.1.0",
     "lazy-val": "^1.0.5",
     "lodash": "^4.17.21",
