@@ -34,7 +34,7 @@
     "buffer-from": "^1.1.2",
     "builder-util": "^23.0.2",
     "builder-util-runtime": "^9.0.0",
-    "cacheable-request": "^6.1.0",
+    "cacheable-request": "^10.2.1",
     "camelcase": "^6.3.0",
     "chalk": "^4.1.2",
     "chromium-pickle-js": "^0.2.0",
