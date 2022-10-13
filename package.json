@@ -10,7 +10,7 @@
     "ajv-keywords": "^3.5.2",
     "ansi-align": "^3.0.1",
     "ansi-regex": "^5.0.1",
-    "ansi-styles": "^4.3.0",
+    "ansi-styles": "^6.2.1",
     "app-builder-bin": "^4.0.0",
     "app-builder-lib": "^23.0.3",
     "argparse": "^2.0.1",
