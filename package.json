@@ -106,7 +106,7 @@
     "has-property-descriptors": "^1.0.0",
     "has-symbols": "^1.0.3",
     "has-yarn": "^2.1.0",
-    "hosted-git-info": "^4.1.0",
+    "hosted-git-info": "^6.0.0",
     "http-cache-semantics": "^4.1.0",
     "http-proxy-agent": "^5.0.0",
     "https-proxy-agent": "^5.0.1",
