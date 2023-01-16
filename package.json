@@ -46,7 +46,7 @@
     "color-name": "^1.1.4",
     "colors": "^1.0.3",
     "combined-stream": "^1.0.8",
-    "commander": "^5.1.0",
+    "commander": "^10.0.0",
     "compare-version": "^0.1.2",
     "concat-map": "^0.0.1",
     "concat-stream": "^1.6.2",
