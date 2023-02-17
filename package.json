@@ -204,7 +204,7 @@
     "to-readable-stream": "^1.0.0",
     "truncate-utf8-bytes": "^1.0.2",
     "tunnel": "^0.0.6",
-    "type-fest": "^0.13.1",
+    "type-fest": "^3.6.0",
     "typedarray": "^0.0.6",
     "typedarray-to-buffer": "^3.1.5",
     "unique-string": "^2.0.0",
