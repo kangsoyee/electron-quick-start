@@ -176,7 +176,7 @@
     "require-directory": "^2.1.1",
     "responselike": "^1.0.2",
     "rimraf": "^3.0.2",
-    "roarr": "^2.15.4",
+    "roarr": "^7.14.3",
     "safe-buffer": "^5.1.2",
     "safer-buffer": "^2.1.2",
     "sanitize-filename": "^1.6.3",
