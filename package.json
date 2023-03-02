@@ -93,7 +93,7 @@
     "get-caller-file": "^2.0.5",
     "get-intrinsic": "^1.1.1",
     "get-stream": "^4.1.0",
-    "glob": "^7.2.3",
+    "glob": "^9.1.2",
     "global-agent": "^3.0.0",
     "global-dirs": "^3.0.0",
     "global-tunnel-ng": "^2.7.1",
